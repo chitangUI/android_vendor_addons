@@ -1,0 +1,6 @@
+android_app_import {
+        name: "KDEConnect",
+        apk: "KDEConnect/KDEConnect.apk",
+        presigned: true,
+        product_specific: true,
+}
