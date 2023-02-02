@@ -17,4 +17,6 @@ include $(call all-subdir-makefiles,$(LOCAL_PATH))
 # Apps
 PRODUCT_PACKAGES += \
 	KDEConnect
-	
+
+# Include ChiTang UI audios
+include vendor/addons/chitang_audio.mk
