@@ -15,7 +15,7 @@ LOCAL_PATH := $(call my-dir)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 
 # Apps
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
 	KDEConnect
 
 # Include ChiTang UI audios
